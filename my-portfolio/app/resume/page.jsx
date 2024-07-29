@@ -61,7 +61,7 @@ const education = {
   icon: "/assets/resume/cap.svg",
   title: "My education",
   description:
-    "I have graduated from the University of Science HCMC with GPA 3.12/4.0 and achieved a Cambridge English Certificate (FCE) with score 167 when I was in 12th grade, which is equivalent to B2 level in CEFR and IELTS 5.5.",
+    "I have graduated from the University of Science HCMC with GPA 3.12/4.0 and achieved a Cambridge English Certificate (FCE) with score 167 when I was in 12th grade, which is equivalent to B2 level in CEFR and IELTS 6.0.",
   item: [
     {
       institution: "Total Score: 167/190",
